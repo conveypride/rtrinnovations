@@ -643,7 +643,7 @@ button:focus {
   6. Features Section Style
    ========================================================================== */
 #features {
-  background: url(../img/bg1.jpg) fixed no-repeat;
+  /* background: url(../img/bg1.jpg) fixed no-repeat; */
   background-size: cover;
   color: #fff;
   overflow: hidden;
